@@ -1,0 +1,21 @@
+/* style.css */
+
+p,
+.medium {
+    background-color: #e6449575;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#secondElement {
+    color: #181ce2;
+    font-size: 36px;
+}
+
+.medium {
+    font-size: 24px;
+}
+
+.fourthElement {
+    background-color: #39f051b7;
+    font-weight: bold;
+}
